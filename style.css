@@ -1,0 +1,7 @@
+.altImg {
+  height: 300px;
+  object-fit: cover;
+}
+.conImg {
+  object-fit: cover;
+}
